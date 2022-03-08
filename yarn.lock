@@ -4809,9 +4809,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mswjs/interceptors@npm:^0.13.5":
-  version: 0.13.6
-  resolution: "@mswjs/interceptors@npm:0.13.6"
+"@mswjs/interceptors@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "@mswjs/interceptors@npm:0.14.0"
   dependencies:
     "@open-draft/until": ^1.0.3
     "@xmldom/xmldom": ^0.7.5
@@ -4819,7 +4819,7 @@ __metadata:
     headers-polyfill: ^3.0.4
     outvariant: ^1.2.1
     strict-event-emitter: ^0.2.0
-  checksum: c9296eb7b84dc1c63140048f4d5b40794f0df1ef4252ca79188caa266a1eb6a47ba848a5c0f7feb487eb95bcada492a3a800a256bc53b62e66af2bb3860bbad2
+  checksum: e942d705de5eb4d11cb60884a7bf03c306197a7ca9de8f05b665ec3ec6c4d339a075547d7edfdfe873d359bd5ebb6a15e8e4e29aa5dee4acc1f19c90e7d78994
   languageName: node
   linkType: hard
 
@@ -6230,7 +6230,7 @@ __metadata:
     babel-plugin-inline-react-svg: 2.0.1
     jest: 27.5.1
     jest-watch-typeahead: 1.0.0
-    msw: 0.38.2
+    msw: 0.39.0
     ts-toolbelt: 9.6.0
     typescript: 4.6.2
     whatwg-fetch: 3.6.2
@@ -21827,12 +21827,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"msw@npm:0.38.2":
-  version: 0.38.2
-  resolution: "msw@npm:0.38.2"
+"msw@npm:0.39.0":
+  version: 0.39.0
+  resolution: "msw@npm:0.39.0"
   dependencies:
     "@mswjs/cookies": ^0.1.7
-    "@mswjs/interceptors": ^0.13.5
+    "@mswjs/interceptors": ^0.14.0
     "@open-draft/until": ^1.0.3
     "@types/cookie": ^0.4.1
     "@types/js-levenshtein": ^1.1.1
@@ -21852,7 +21852,7 @@ __metadata:
     yargs: ^17.3.1
   bin:
     msw: cli/index.js
-  checksum: 54e71bceadcc86c7025f3b9cef4e00ea5330346afc607449051b47eb5b75a211edc0c01cb83c766fcac08173f5d7b76fd8e0761bb0d5dae09bb898161c890cdd
+  checksum: 7b28d5daac2ab0cb559a737a3aa26c4491261755240f54919a3643475df3cff925bb223454dbb84354fdbf0b6ccba4c760b911c0b32eac6de4f166d62747e2aa
   languageName: node
   linkType: hard
 
@@ -26254,7 +26254,7 @@ __metadata:
     lerna: 4.0.0
     lodash.template: 4.5.0
     make-dir-cli: 3.0.0
-    msw: 0.38.2
+    msw: 0.39.0
     ncp: 2.0.0
     node-notifier: 10.0.1
     nodemon: 2.0.15
